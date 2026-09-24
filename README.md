@@ -1,4 +1,4 @@
-3 barinfuck interpreter for aarch64
+# barinfuck interpreter for aarch64
 
 assembly on freeBSD
 
